@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { heroImages } from '../../helpers/heroImages';
+import { heroImages } from './../helpers/heroImages';
 
 export const HeroCard = ({
     id,
